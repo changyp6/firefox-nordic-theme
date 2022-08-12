@@ -361,10 +361,10 @@ menuitem[type="radio"]:not([disabled="true"]):hover .menu-iconic-icon {
 	
 	/* Tree views */
 	treechildren::-moz-tree-twisty {
-		list-style-image: url("../icons/pan-down-symbolic-light.svg") !important;
+		list-style-image: url("../icons/pan-end-symbolic-light.svg") !important;
 	}
 	treechildren::-moz-tree-twisty(open) {
-		list-style-image: url("../icons/pan-end-symbolic-light.svg") !important;
+		list-style-image: url("../icons/pan-down-symbolic-light.svg") !important;
 	}
 	#historyTree treechildren::-moz-tree-image {
 		list-style-image: url("../icons/preferences-system-time-symbolic-light.svg") !important;
